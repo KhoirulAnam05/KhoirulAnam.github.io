@@ -1,0 +1,43 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/image/bg/bioskop.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px gray;
+  letter-spacing: 4px;
+}
+
+.Trending {
+  height: auto;
+  background: url(../assets/image/bg/bg\ tren.jpg);
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/image/bg/bg\ superhero.jpg");
+  background-size: cover;
+}
+
+.movieImage {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 100px;
+}
